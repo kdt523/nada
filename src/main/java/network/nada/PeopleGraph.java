@@ -40,5 +40,4 @@ public class PeopleGraph {
         }
         return result;
     }
-
 }
